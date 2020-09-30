@@ -8,6 +8,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Detecting the faces in video uploaded
+
 ![Image of PC](https://github.com/warcep/vid_face_detection/blob/master/images/face_detect.jpg)
 
 ### Prerequisites
